@@ -1,12 +1,4 @@
-<meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-     <link rel="stylesheet" href="style.css">
-     <title>Meu portfólio</title>
- </head>
- 
- <body>
+<body>
      <header class="container text-center">
          <img src="[img/avatar-perfil.png](https://www.cnnbrasil.com.br/esportes/basquete/lebron-x-curry-rodada-de-natal-da-nba-tem-duelo-com-figuroes/)" alt="avatar do joao" class="rounded-circle" width="150" height="150"
              srcset="">
