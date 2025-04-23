@@ -8,7 +8,7 @@
  
  <body>
      <header class="container text-center">
-         <img src="[img/avatar-perfil.png](https://www.cnnbrasil.com.br/esportes/basquete/lebron-x-curry-rodada-de-natal-da-nba-tem-duelo-com-figuroes/)" alt="avatar do Ailson" class="rounded-circle" width="150" height="150"
+         <img src="[img/avatar-perfil.png](https://www.cnnbrasil.com.br/esportes/basquete/lebron-x-curry-rodada-de-natal-da-nba-tem-duelo-com-figuroes/)" alt="avatar do joao" class="rounded-circle" width="150" height="150"
              srcset="">
          <p class="lead">Eu sou joao_</p>
      <header class="container">
