@@ -12,7 +12,7 @@
              srcset="">
          <p class="lead">Eu sou joao_</p>
      <header class="container">
-         <img src="[img/avatar-perfil.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GQXSJnOIuBqL8p6Veod1RVrfGYtnH6Tw3A&s)" alt="avatar do Ailson" srcset="">
+         <img src="[img/avatar-perfil.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GQXSJnOIuBqL8p6Veod1RVrfGYtnH6Tw3A&s)" alt="avatar do joao" srcset="">
          <p>Eu sou joao_</p>
          <h1>Eu estudo programação</h1>
          <p>Sou estudando de programação. Estudo pensamento computacional no Ensino
